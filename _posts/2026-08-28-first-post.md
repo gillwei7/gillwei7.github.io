@@ -11,6 +11,7 @@ date: 2026-08-28
 不需要寫 <p> 或 <div> 這些複雜的 HTML 標籤。
 
 範例圖片
-![照片說明](photo.jpg)
+![圖片說明](../images/test.PNG)
 
+[[test.png]]
 這樣就寫完了！
