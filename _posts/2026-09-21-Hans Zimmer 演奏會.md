@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hans Zimmer 演奏會及約瑟
+title: Hans Zimmer 演奏會
 date: 2026-09-21
 ---
 上週六找陳炅煜去看 Hans Zimmer 演奏會「The Next Level」，真的是太讚了!
