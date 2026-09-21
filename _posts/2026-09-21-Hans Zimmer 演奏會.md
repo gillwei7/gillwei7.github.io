@@ -28,3 +28,14 @@ Zack Hemsey - "Mind Heist"</a>
 
 這篇文章本來還想聊聊跟炅關於職涯的討論和心得，但看來今天沒時間了，下次繼續
 
+---
+**文章分類**：
+{% for category in page.categories %}
+  `{{ category }}`
+{% endfor %}
+
+**標籤**：
+{% for tag in page.tags %}
+  #{{ tag }}
+{% endfor %}
+---
