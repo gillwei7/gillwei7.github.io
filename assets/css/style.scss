@@ -1,0 +1,17 @@
+---
+---
+
+@import "minima";
+
+/* 1. 隱藏右上角導覽選單（文章分類總覽、魏鴻憲的網誌） */
+.site-nav {
+  display: none !important;
+}
+
+/* 2. 隱藏左上角標題列（魏鴻憲的網誌） */
+.site-header .site-title {
+  display: none !important;
+}
+
+/* 3. 如果首頁內容區的大標題「魏鴻憲的網誌」也想拿掉，解開下面這行的註解 */
+/* .home .page-heading { display: none !important; } */
