@@ -2,6 +2,9 @@
 layout: post
 title: Hans Zimmer 演奏會
 date: 2026-09-21
+categories:
+  - 音樂
+  - 旅遊
 ---
 **上週六找陳炅煜去看 Hans Zimmer 演奏會「The Next Level」，真的是太讚了!**
 
@@ -17,12 +20,11 @@ date: 2026-09-21
 <a href="https://www.youtube.com/watch?v=CpHkMZxNLV0" target="_blank" rel="noopener noreferrer">  
 Chevaliers De Sangreal (From The Da Vinci Code Original Motion Picture Soundtrack)</a>
 
-
 另外我也很喜歡的，還很開心想跟炅分享，但結果不是 HZ 本人的作品，是全面啟動的預告片，原來是其他人做的，感覺融合了 HZ 的風格又完全不一樣
 
 <a href="https://www.youtube.com/watch?v=QpR4p41F8G4" target="_blank" rel="noopener noreferrer">  
 Zack Hemsey - "Mind Heist"</a>
 
 
-本來還想聊聊跟炅關於職涯的討論和心得，但看來今天沒時間了，下次繼續
+這篇文章本來還想聊聊跟炅關於職涯的討論和心得，但看來今天沒時間了，下次繼續
 
