@@ -3,6 +3,8 @@ layout: post
 title: Hans Zimmer 演奏會
 date: 2026-09-21
 categories:
+  - 自我與朋友
+tags:
   - 音樂
   - 旅遊
 ---
@@ -38,4 +40,5 @@ Zack Hemsey - "Mind Heist"</a>
 {% for tag in page.tags %}
   #{{ tag }}
 {% endfor %}
+
 ---
