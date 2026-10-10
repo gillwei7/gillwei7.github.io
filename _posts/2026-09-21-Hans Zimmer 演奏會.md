@@ -37,8 +37,6 @@ Zack Hemsey - "Mind Heist"</a>
 {% endfor %}
 
 **標籤**：
-{% for tag in page.tags %}
-  #{{ tag }}
-{% endfor %}
+{% for tag in page.tags %} <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}">#{{ tag }}</a> {% endfor %}
 
 ---
